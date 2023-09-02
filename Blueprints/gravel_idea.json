@@ -1,0 +1,13 @@
+{
+  "id": "stella_machine_blueprint_gravel",
+  "nameTerm": "stella_machine_gravel_name",
+  "group": "Resources",
+  "subprints": [
+    {
+      "RequiredCards": "flint, sand",
+      "ResultCard": "stella_machine_gravel",
+      "Time": 30,
+      "StatusTerm": "stella_machine_idea_gravel_status"
+    }
+  ]
+}

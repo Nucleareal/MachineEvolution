@@ -1,0 +1,31 @@
+{
+  "id": "stella_machine_booster",
+  "nameTerm": "stella_machine_booster_name",
+  "minQuestCount": 3,
+  "cost": 25,
+  "icon": "booster.png",
+  "location": "Mainland",
+  "cardBags": [
+    {
+      "CardBagType": "Chances",
+      "Cards": 27,
+      "SetCardBag": "BasicResources",
+      "Chances": [
+        {
+          "Id": "stella_machine_silver_ore",
+          "Chance": 3,
+          "HasMaxCount": false,
+          "HasPrerequisiteCard": false,
+          "IsEnemy": false
+        },
+		{
+          "Id": "stella_machine_silver_rock",
+          "Chance": 3,
+          "HasMaxCount": false,
+          "HasPrerequisiteCard": false,
+          "IsEnemy": false
+        }
+      ]
+    }
+  ]
+}

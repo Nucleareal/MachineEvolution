@@ -1,0 +1,9 @@
+{
+  "id": "stella_machine_silicone",
+  "nameTerm": "stella_machine_silicone_name",
+  "descriptionTerm": "stella_machine_silicone_description",
+  "icon": "silicone.png",
+  "value": 1,
+  "type": "Resources",
+  "script": "Resource"
+}

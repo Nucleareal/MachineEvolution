@@ -1,0 +1,13 @@
+{
+  "id": "stella_machine_blueprint_silicone",
+  "nameTerm": "stella_machine_silicone_name",
+  "group": "Resources",
+  "subprints": [
+    {
+      "RequiredCards": "smelter, wood, stella_machine_gravel",
+      "ResultCard": "stella_machine_silicone",
+      "Time": 30,
+      "StatusTerm": "stella_machine_idea_silicone_status"
+    }
+  ]
+}

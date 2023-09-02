@@ -1,0 +1,9 @@
+{
+  "id": "stella_machine_silver_ore",
+  "nameTerm": "stella_machine_silver_ore_name",
+  "descriptionTerm": "stella_machine_silver_ore_description",
+  "icon": "silver_ore.png",
+  "value": 1,
+  "type": "Resources",
+  "script": "Resource"
+}

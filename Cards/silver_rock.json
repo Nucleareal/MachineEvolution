@@ -1,0 +1,24 @@
+{
+  "id": "stella_machine_silver_rock",
+  "nameTerm": "stella_machine_silver_rock_name",
+  "descriptionTerm": "stella_machine_silver_rock_description",
+  "icon": "silver_rock.png",
+  "value": 1,
+  "type": "Structures",
+  "script": "Harvestable",
+  "_StatusTerm": "stella_machine_silver_rock_mining_status",
+  "_MyCardBag":	{
+		"CardBagType": "Chances",
+		"Cards": 1,
+		"SetCardBag": "AdvancedResources",
+		"Chances": [
+			{
+				"Id": "stella_machine_silver_ore",
+				"Chance": 3,
+				"HasMaxCount": false,
+				"HasPrerequisiteCard": false,
+				"IsEnemy": false
+			}
+		]
+	}
+}

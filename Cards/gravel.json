@@ -1,0 +1,9 @@
+{
+  "id": "stella_machine_gravel",
+  "nameTerm": "stella_machine_gravel_name",
+  "descriptionTerm": "stella_machine_gravel_description",
+  "icon": "gravel.png",
+  "value": 1,
+  "type": "Resources",
+  "script": "Resource"
+}

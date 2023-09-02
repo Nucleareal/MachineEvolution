@@ -1,0 +1,17 @@
+{
+  "id": "stella_machine_drill",
+  "nameTerm": "stella_machine_drill_name",
+  "descriptionTerm": "stella_machine_drill_description",
+  "icon": "drill.png",
+  "value": 1,
+  "type": "Equipable",
+  "script": "Equipable",
+  "_VillagerTypeOverride": "stella_machine_driller",
+  "_EquipableType": "Weapon",
+  "_AttackType": "Melee",
+  "_MyStats": {
+	  "AttackDamage": 20,
+	  "Defence": -10
+  },
+  "_Level": 15
+}

@@ -1,0 +1,10 @@
+{
+  "id": "stella_machine_flint_mine",
+  "nameTerm": "stella_machine_flint_mine_name",
+  "descriptionTerm": "stella_machine_flint_mine_description",
+  "icon": "flint_mine.png",
+  "value": 1,
+  "type": "Structures",
+  "_IsBuilding": true,
+  "script": "StellaMachineNS.SilverMine"
+}

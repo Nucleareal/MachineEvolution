@@ -1,0 +1,13 @@
+{
+  "id": "stella_machine_blueprint_silver_bar",
+  "nameTerm": "stella_machine_silver_bar_name",
+  "group": "Resources",
+  "subprints": [
+    {
+      "RequiredCards": "smelter, wood, stella_machine_silver_ore",
+      "ResultCard": "stella_machine_silver_bar",
+      "Time": 30,
+      "StatusTerm": "stella_foods_idea_silver_bar_status"
+    }
+  ]
+}

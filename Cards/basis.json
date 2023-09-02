@@ -1,0 +1,9 @@
+{
+  "id": "stella_machine_basis",
+  "nameTerm": "stella_machine_basis_name",
+  "descriptionTerm": "stella_machine_basis_description",
+  "icon": "basis.png",
+  "value": 1,
+  "type": "Resources",
+  "script": "Resource"
+}

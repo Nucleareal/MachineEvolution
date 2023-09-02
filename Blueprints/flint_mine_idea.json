@@ -1,0 +1,13 @@
+{
+  "id": "stella_machine_blueprint_flint_mine",
+  "nameTerm": "stella_machine_flint_mine_name",
+  "group": "Building",
+  "subprints": [
+    {
+      "RequiredCards": "flint, flint, wood, wood, stella_machine_silicone, any_villager",
+      "ResultCard": "stella_machine_flint_mine",
+      "Time": 30,
+      "StatusTerm": "stella_foods_idea_flint_mine_status"
+    }
+  ]
+}

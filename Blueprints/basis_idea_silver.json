@@ -1,0 +1,13 @@
+{
+  "id": "stella_machine_blueprint_basis_silver",
+  "nameTerm": "stella_machine_basis_name",
+  "group": "Resources",
+  "subprints": [
+    {
+      "RequiredCards": "smelter, stella_machine_silver_bar, stella_machine_silicone",
+      "ResultCard": "stella_machine_basis",
+      "Time": 30,
+      "StatusTerm": "stella_machine_idea_basis_status"
+    }
+  ]
+}

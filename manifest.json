@@ -1,5 +1,8 @@
 {
-	"id": "example_mod",
-	"name": "Example Mod",
-	"version": "0.0.1"
+	"id": "stella_machine",
+	"name": "Machine Evolution",
+	"version": "0.0.1",
+	"optionalDependencies": [
+		"stella_farming"
+	]
 }

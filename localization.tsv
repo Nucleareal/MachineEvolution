@@ -1,0 +1,36 @@
+Term	Notes	English	Japanese
+stella_machine_booster_name		machine evolution	産業革命
+stella_machine_booster		c	d
+stella_machine_silver_ore_name		Silver ore	銀鉱石
+stella_machine_silver_ore_description		Silver ore	銀鉱石。
+stella_machine_silver_rock_name		Silver rock	銀石
+stella_machine_silver_rock_description		Silver rock	銀石。
+stella_machine_silver_bar_name		Silver bar	銀の延べ棒
+stella_machine_silver_bar_description		Silver bar	銀の延べ棒。
+stella_machine_silver_mine_name		Silver mine	銀鉱
+stella_machine_silver_mine_description		Silver mine	銀鉱石が取れる。
+stella_machine_flint_mine_name		Flint mine	火打石鉱
+stella_machine_flint_mine_description		Flint mine	火打石が取れる。
+stella_machine_silicone_name		Silicone	シリコン
+stella_machine_silicone_description		Silicone	シリコン
+stella_machine_gravel_name		Silicone	砂利
+stella_machine_gravel_description		Silicone	砂利
+stella_machine_basis_name		Silicone	基盤
+stella_machine_basis_description		Silicone	基盤
+stella_machine_machine_name		Silicone	機械
+stella_machine_machine_description		Silicone	機械
+stella_machine_drill_name		Silicone	ドリル
+stella_machine_drill_description		Silicone	ドリル
+stella_machine_driller_name		Silicone	ドリラー
+stella_machine_driller_description		Silicone	ドリラー
+stella_machine_idea_gravel_status		Creating..	制作中..
+stella_machine_idea_silicone_status		Creating..	制作中..
+stella_machine_idea_basis_status		Creating..	制作中..
+stella_machine_idea_machine_status		Creating..	制作中..
+stella_machine_idea_silver_bar_status		Creating..	制作中..
+stella_machine_idea_silver_mine_mining_status		Polling..	掘削中..
+stella_machine_idea_flint_mine_mining_status		Polling..	掘削中..
+stella_machine_idea_silver_mine_status		Building..	建造中..
+stella_machine_idea_flint_mine_status		Building..	建造中..
+stella_machine_silver_mine_mining_name		Error	エラー
+stella_machine_flint_mine_mining_name		Error	エラー

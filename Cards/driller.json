@@ -1,0 +1,18 @@
+{
+  "id": "stella_machine_driller",
+  "nameTerm": "stella_machine_driller_name",
+  "descriptionTerm": "stella_machine_driller_description",
+  "icon": "driller.png",
+  "value": -1,
+  "type": "Humans",
+  "script": "StellaMachineNS.Driller",
+  "_CanOverrideCardFromEquipment": true,
+  "_BaseAttackType": "Melee",
+  "_BaseCombatStats": {
+    "MaxHealth": 15,
+    "AttackDamage": 20,
+    "AttackSpeed": 1,
+    "Defence": -10,
+    "HitChance": 0.4
+  },
+}

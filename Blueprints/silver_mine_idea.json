@@ -1,0 +1,13 @@
+{
+  "id": "stella_machine_blueprint_silver_mine",
+  "nameTerm": "stella_machine_silver_mine_name",
+  "group": "Building",
+  "subprints": [
+    {
+      "RequiredCards": "stella_machine_silver_ore, stella_machine_silver_ore, wood, wood, flint",
+      "ResultCard": "stella_machine_silver_mine",
+      "Time": 30,
+      "StatusTerm": "stella_foods_idea_silver_mine_status"
+    }
+  ]
+}

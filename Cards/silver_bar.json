@@ -1,0 +1,9 @@
+{
+  "id": "stella_machine_silver_bar",
+  "nameTerm": "stella_machine_silver_bar_name",
+  "descriptionTerm": "stella_machine_silver_bar_description",
+  "icon": "silver_bar.png",
+  "value": 1,
+  "type": "Resources",
+  "script": "Resource"
+}

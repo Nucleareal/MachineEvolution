@@ -1,0 +1,13 @@
+{
+  "id": "stella_machine_blueprint_silver_mine_mining",
+  "nameTerm": "stella_machine_silver_mine_mining_name",
+  "group": "Building",
+  "subprints": [
+    {
+      "RequiredCards": "stella_machine_silver_mine, any_villager",
+      "ResultCard": "stella_machine_silver_ore",
+      "Time": 30,
+      "StatusTerm": "stella_foods_idea_silver_mine_mining_status"
+    }
+  ]
+}
