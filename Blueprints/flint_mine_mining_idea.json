@@ -2,6 +2,9 @@
   "id": "stella_machine_blueprint_flint_mine_mining",
   "nameTerm": "stella_machine_flint_mine_mining_name",
   "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
   "subprints": [
     {
       "RequiredCards": "stella_machine_flint_mine, any_villager",

@@ -7,10 +7,10 @@ namespace StellaMachineNS
 {
     public class StellaMachine : Mod
     {
-        private bool _isFarmingLoaded;
-        private bool _isMachineLoaded;
-        private bool _isFoodsLoaded;
-        private bool _isMagicLoaded;
+        private static bool _isFarmingLoaded;
+        private static bool _isMachineLoaded;
+        private static bool _isFoodsLoaded;
+        private static bool _isMagicLoaded;
 
         private const string FARMING_MOD_CLASSNAME = "StellaFarming";
         private const string MACHINE_MOD_CLASSNAME = "StellaMachine";
@@ -47,12 +47,20 @@ namespace StellaMachineNS
         }
 
         private static string[] MineIDs = { "mine", "gold_mine", "stella_machine_flint_mine", "stella_machine_silver_mine" };
+        private static string[] FoodsMineIDs = { "stella_foods_salt_mine" };
 
         private bool PatcherDriller(ActionTimeParams parameters)
         {
-            if(MineIDs.Contains(parameters.baseCard.Id) && parameters.villager.Id == "stella_machine_driller")
+            if(parameters.villager.Id == "stella_machine_driller")
             {
-                return true;
+                if(MineIDs.Contains(parameters.baseCard.Id))
+                {
+                    return true;
+                }
+                if(_isFoodsLoaded && FoodsMineIDs.Contains(parameters.baseCard.Id))
+                {
+                    return true;
+                }
             }
             return false;
         }

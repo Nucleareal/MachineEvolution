@@ -2,6 +2,9 @@
   "id": "stella_machine_blueprint_silver_mine_mining",
   "nameTerm": "stella_machine_silver_mine_mining_name",
   "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
   "subprints": [
     {
       "RequiredCards": "stella_machine_silver_mine, any_villager",

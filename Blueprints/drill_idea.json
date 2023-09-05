@@ -1,0 +1,13 @@
+{
+  "id": "stella_machine_blueprint_drill",
+  "nameTerm": "stella_machine_drill_name",
+  "group": "Resources",
+  "subprints": [
+    {
+      "RequiredCards": "stella_machine_machine, iron_bar, iron_bar",
+      "ResultCard": "stella_machine_drill",
+      "Time": 30,
+      "StatusTerm": "stella_machine_idea_drill_status"
+    }
+  ]
+}
